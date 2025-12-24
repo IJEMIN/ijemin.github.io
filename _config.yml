@@ -1,3 +1,4 @@
 title: Jemin Blog
 markdown: kramdown
 permalink: /blog/:title/
+theme: minima
